@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://loftytan.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jun 2021 08:41:20 +0800</lastBuildDate><atom:link href="https://loftytan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://loftytan.github.io/post/blog/</link>
+      <pubDate>Thu, 10 Jun 2021 08:41:20 +0800</pubDate>
+      
+      <guid>https://loftytan.github.io/post/blog/</guid>
+      <description>第1章 框架搭建 学习目标   了解电商
+1.市场走向 2.技术特点   了解畅购架构
+1.微服务架构 2.各个服务调用 3.各个服务公共组件抽取   ==了解畅购工程结构[重点]==
+1.业务独立工程 2.公共抽取 3.数据依赖组件 4.分布式事务依赖组件 5.微服务网关 6.oauth2.0   畅购工程搭建
+  商品微服务搭建
+1.品牌的增删改查 2.通用Mapper+PageHelper   ==品牌增删改查==[通用Mapper+PageHelper]
+  1. 走进电商 1.1 电商行业分析 近年来，世界经济正向数字化转型，大力发展数字经济成为全球共识。党的十九大报告明确提出要建设“数字中国”“网络强国”，我国数字经济发展进入新阶段，市场规模位居全球第二，数字经济与实体经济深度融合，有力促进了供给侧结构性改革。电子商务是数字经济的重要组成部分，是数字经济最活跃、最集中的表现形式之一。2017年，在政府和市场共同推动下，我国电子商务发展更加注重效率、质量和创新，取得了一系列新的进展，在壮大数字经济、共建“一带一路”、助力乡村振兴、带动创新创业、促进经济转型升级等诸多方面发挥了重要作用，成为我国经济增长的新动力。 2017年，我国电子商务交易规模继续扩大，并保持高速增长态势。国家统计局数据显示，2017年全国电子商务交易额达29.16万亿元，同比增长11.7%；网上零售额7.18万亿元，同比增长32.2%。我国电子商务优势进一步扩大，网络零售规模全球最大、产业创新活力世界领先。数据显示，截止2017年底，全国网络购物用户规模达5.33亿，同比增长14.3%；非银行支付机构发生网络支付金额达143.26万亿元，同比增长44.32%；全国快递服务企业业务量累计完成400.6亿件，同比增长28%；电子商务直接从业人员和间接带动就业达4250万人。
+2018天猫全天成交额记录
+1.2 电商系统技术特点   技术新
+  技术范围广
+  分布式
+  高并发、集群、负载均衡、高可用
+  海量数据
+  业务复杂
+  系统安全
+  1.3 主要电商模式 B2B</description>
+    </item>
+    
+  </channel>
+</rss>
